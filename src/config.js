@@ -3,8 +3,8 @@
 
 export const DEFAULT_TARGETS = [
   'https://bsc-dataseed.binance.org/',
-  'https://eth.llamarpc.com',
-  'https://polygon-rpc.com',
+  'https://ethereum.publicnode.com',
+  'https://polygon.publicnode.com',
 ];
 
 // Thresholds for status classification. Each one is documented because the
