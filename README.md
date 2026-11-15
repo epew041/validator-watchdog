@@ -97,7 +97,7 @@ npm test
 | Variabel | Default | Keterangan |
 | --- | --- | --- |
 | `PORT` | `3000` | Port listen. Railway mengisinya otomatis. |
-| `WATCHDOG_TARGETS` | BSC dataseed, eth.llamarpc.com, polygon-rpc.com | Daftar URL dipisah koma. |
+| `WATCHDOG_TARGETS` | BSC dataseed, ethereum.publicnode.com, polygon.publicnode.com | Daftar URL dipisah koma. |
 | `WATCHDOG_INTERVAL_MS` | `60000` | Jeda antar siklus (min. 5000). |
 | `WATCHDOG_TARGET_DELAY_MS` | `1000` | Jeda antar target dalam satu siklus. |
 | `WATCHDOG_REQUEST_TIMEOUT_MS` | `10000` | Timeout per panggilan RPC. |
